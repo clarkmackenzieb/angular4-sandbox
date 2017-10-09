@@ -8,6 +8,7 @@ import { Component } from '@angular/core';
 
 export class PracticeComponent  {
   // basic class, class name should match the name of the file with every other word capitalized.
+  // add your constructors to the export class as well.
 }
 
 // Once a com is created, don't forget to add it to the @NgModule in app.module.ts
